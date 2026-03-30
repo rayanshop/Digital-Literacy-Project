@@ -4,7 +4,7 @@
 
 ## 👤 Student Details
 
-* **Name:** Rayansh
+* **Name:** Rayansh Jaiswal
 * **Registration Number:** 25MIM10077
 * **College:** VIT Bhopal University
 * **Branch:** Integrated M.Tech AI
